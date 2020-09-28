@@ -1,0 +1,26 @@
+{
+  "name": "nativejs-components",
+  "version": "0.1.0",
+  "description": "A native js components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablim/nativejs-components.git"
+  },
+  "keywords": [
+    "components",
+    "web-components"
+  ],
+  "author": "Pablo Vaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pablim/nativejs-components/issues"
+  },
+  "homepage": "https://github.com/pablim/nativejs-components#readme",
+  "dependencies": {
+    "nativejs-component-helper": "^0.1.0"
+  }
+}
