@@ -1,4 +1,4 @@
-import defineElement from '../componentHelper.js'
+import defineElement from 'netivejs-comopnent-helper/componentHelper'
 
 defineElement({
     name: "jls-paginacao-mes",
